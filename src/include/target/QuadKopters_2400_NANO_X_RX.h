@@ -7,7 +7,6 @@
 // GPIO pin definitions
 #define GPIO_PIN_NSS            15
 #define GPIO_PIN_BUSY           5
-#define GPIO_PIN_DIO0           -1
 #define GPIO_PIN_DIO1           4
 #define GPIO_PIN_MOSI           13
 #define GPIO_PIN_MISO           12
